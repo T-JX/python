@@ -1,0 +1,48 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="35">
+            <item index="0" class="java.lang.String" itemvalue="mysqlclient" />
+            <item index="1" class="java.lang.String" itemvalue="diff-match-patch" />
+            <item index="2" class="java.lang.String" itemvalue="pyecharts-jupyter-installer" />
+            <item index="3" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="4" class="java.lang.String" itemvalue="httplib2" />
+            <item index="5" class="java.lang.String" itemvalue="lml" />
+            <item index="6" class="java.lang.String" itemvalue="MarkupSafe" />
+            <item index="7" class="java.lang.String" itemvalue="requests" />
+            <item index="8" class="java.lang.String" itemvalue="Jinja2" />
+            <item index="9" class="java.lang.String" itemvalue="jdcal" />
+            <item index="10" class="java.lang.String" itemvalue="django-ranged-response" />
+            <item index="11" class="java.lang.String" itemvalue="pycryptodomex" />
+            <item index="12" class="java.lang.String" itemvalue="certifi" />
+            <item index="13" class="java.lang.String" itemvalue="pyecharts" />
+            <item index="14" class="java.lang.String" itemvalue="urllib3" />
+            <item index="15" class="java.lang.String" itemvalue="itsdangerous" />
+            <item index="16" class="java.lang.String" itemvalue="xlrd" />
+            <item index="17" class="java.lang.String" itemvalue="django-formtools" />
+            <item index="18" class="java.lang.String" itemvalue="six" />
+            <item index="19" class="java.lang.String" itemvalue="django-crispy-forms" />
+            <item index="20" class="java.lang.String" itemvalue="python-alipay-sdk" />
+            <item index="21" class="java.lang.String" itemvalue="tablib" />
+            <item index="22" class="java.lang.String" itemvalue="django-import-export" />
+            <item index="23" class="java.lang.String" itemvalue="xlwt" />
+            <item index="24" class="java.lang.String" itemvalue="django-simple-captcha" />
+            <item index="25" class="java.lang.String" itemvalue="et-xmlfile" />
+            <item index="26" class="java.lang.String" itemvalue="jupyter-echarts-pypkg" />
+            <item index="27" class="java.lang.String" itemvalue="django-reversion" />
+            <item index="28" class="java.lang.String" itemvalue="chardet" />
+            <item index="29" class="java.lang.String" itemvalue="odfpy" />
+            <item index="30" class="java.lang.String" itemvalue="Django" />
+            <item index="31" class="java.lang.String" itemvalue="future" />
+            <item index="32" class="java.lang.String" itemvalue="unicodecsv" />
+            <item index="33" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="34" class="java.lang.String" itemvalue="Pillow" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
